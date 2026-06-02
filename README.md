@@ -28,16 +28,6 @@ Built end-to-end in Python with **LangChain** and a **Streamlit** chat UI.
 
 ---
 
-## Demo
-
-> Add a GIF or screenshot here once you record one. Suggested filename: `docs/demo.gif`.
-
-```
-![demo](docs/demo.gif)
-```
-
----
-
 ## Architecture
 
 ```
