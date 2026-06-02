@@ -1,0 +1,25 @@
+# Core RAG stack
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-core==0.3.19
+langchain-text-splitters==0.3.2
+
+# PDF loading
+pypdf==5.1.0
+
+# Embeddings (BGE Small via HuggingFace)
+langchain-huggingface==0.1.2
+sentence-transformers==3.3.1
+
+# Vector store
+faiss-cpu==1.9.0.post1
+
+# LLM: Gemini 2.5
+langchain-google-genai==2.0.6
+google-generativeai==0.8.3
+
+# UI
+streamlit==1.40.2
+
+# Env
+python-dotenv==1.0.1
